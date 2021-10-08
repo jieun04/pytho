@@ -10,3 +10,4 @@ C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.ex
 C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.pdb
 C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Form2.resources
 C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Form3.resources
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Form4.resources
