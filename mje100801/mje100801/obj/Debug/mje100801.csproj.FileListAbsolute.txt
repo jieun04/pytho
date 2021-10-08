@@ -1,0 +1,12 @@
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\bin\Debug\mje100801.exe.config
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\bin\Debug\mje100801.exe
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\bin\Debug\mje100801.pdb
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.csproj.AssemblyReference.cache
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Form1.resources
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Properties.Resources.resources
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.csproj.GenerateResource.cache
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.csproj.CoreCompileInputs.cache
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.exe
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.pdb
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Form2.resources
+C:\Users\mtpc6-1\Desktop\202106017 c#\mje100801\mje100801\obj\Debug\mje100801.Form3.resources
