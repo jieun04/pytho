@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Swich Case 연습</title>
+	<script type="text/javascript">
+		year = parseInt(prompt("년도를 입력하세요", 1));
+		mon = parseInt(prompt("달을 입력하세요", 1));
+		switch(mon){
+			case 4:
+			case 6:
+			case 9:
+			case 11:
+				days = 31;
+				break;
+			case 2:
+				if(year%4 == 0 && year%100 != 0 || year%400 == 0)
+					days = 29;
+				else
+					days = 28;
+				break;
+
+			default:
+				days = 27;
+				break;
+		}
+		document.write(mon + "달은" + days + "일 입니다")
+	</script>
+</head>
+<body>
+
+</body>
+</html>
